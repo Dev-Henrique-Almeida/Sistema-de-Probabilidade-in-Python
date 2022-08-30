@@ -10,6 +10,6 @@ Nesse projeto, foi feito vários tipos de probabilidade, sendo elas:
 - Probabilidade condicional.
 - Probabilidade condicional em um intervalo.
 
-O mesmto também irá contar com um arquivo com nome "test.csv", que vai servir para fazer todos os testes.
+O mesmo também irá contar com um arquivo com nome "test.csv", que vai servir para fazer todos os testes.
 
 
